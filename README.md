@@ -1,1 +1,1 @@
-# Cold_Mail_Generator-
+Cold Mail Generator-
