@@ -1,1 +1,1 @@
-Cold Mail Generator-
+Cold Mail Generator
