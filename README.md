@@ -7,7 +7,6 @@ The Cold Email Generator is a Python-based application designed to automate the 
 ## Tech Stack
 
 - **Python**: The primary programming language used for developing the application.
-- **Streamlit**: A framework for creating interactive web applications for data science and machine learning projects.
 - **ChromaDB**: A database used to store and query tech stack links based on relevance.
 - **Groq API**: An API used for interacting with advanced AI models.
 - **Llama3**: An AI model utilized for generating text based on prompts.
@@ -17,7 +16,6 @@ The Cold Email Generator is a Python-based application designed to automate the 
 
 - **Generate Cold Emails**: Create personalized cold emails using advanced language models.
 - **Tech Stack Querying**: Store tech stack links in ChromaDB and query for relevant links based on the tech stack.
-- **Interactive UI**: Use Streamlit to interact with the application and manage email generation tasks.
 
 ### Prerequisites
 
